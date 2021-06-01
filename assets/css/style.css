@@ -1,0 +1,24 @@
+#pokemones {
+    display: inline-block;
+}
+
+img {
+    background-color: lightgrey;
+    border: black solid 1px;
+    margin: 5px;
+}
+
+#poke-info {
+    display: inline-block;
+    border: 5px solid red;
+    padding: 20px;
+    vertical-align: top;
+}
+
+#poke-name {
+    text-align: center;
+}
+
+#poke-img {
+    width: 10vw;
+}
